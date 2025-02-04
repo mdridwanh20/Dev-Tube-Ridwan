@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ridwan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img  src="https://img.freepik.com/free-vector/online-games-concept_23-2148527136.jpg?t=st=1738660064~exp=1738663664~hmac=896f6072321ec03f2480901a8ad180df4a1bc995d4ff20828041d11aa0a73b88&w=740" alt="" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdridwanh20&label=Profile%20views&color=0e75b6&style=flat" alt="mdridwanh20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdridwanh20" alt="mdridwanh20" /></a> </p>
